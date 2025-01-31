@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit1911&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit1911&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies"/>
 </div>
 🚀 About Me
 <div align="center">
@@ -74,6 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1911&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </div>
+
 🎯 Holopin Badges
 [![An image of @sumit1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumit1911)](https://holopin.io/@sumit1911)
 
@@ -91,5 +92,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+create+something+amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+create+something+amazing" alt="Typing SVG" />
 </div>
