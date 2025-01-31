@@ -15,8 +15,8 @@
 <div align="center">
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
   <div align="left" style="margin-bottom: 20px;">
-    <b>🎯 Current Focus:</b> Developing Code Assist<br>
-    <b>📚 Learning:</b> React Framework<br>
+    <b>🎯 Current Focus:</b> Developing Code Assist and Problem Solving<br>
+    <b>📚 Learning:</b> MERN and AI/ML<br>
     <b>🤝 Open to:</b> Creative Project Collaborations<br>
     <b>💡 Passion:</b> Development & Problem Solving<br>
     <b>🎮 Fun fact:</b> Turning Coffee into Code ☕
@@ -42,9 +42,8 @@
       <td align="center">
         Node.js <br>
         Express <br>
-        Python <br>
-        Java <br>
-        C++
+        Django <br>
+        Flask <br>
       </td>
       <td align="center">
         MongoDB <br>
@@ -55,7 +54,6 @@
         Git <br>
         Postman <br>
         VS Code <br>
-        Babel
       </td>
     </tr>
   </table>
@@ -77,10 +75,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1911&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </div>
 🎯 Holopin Badges
-<div align="center">
-![image](https://github.com/user-attachments/assets/fd738f79-a459-4dcb-bb7b-5fe937703aa1)
+[![An image of @sumit1911's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumit1911)](https://holopin.io/@sumit1911)
 
-</div>
 🤝 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/sumit-kumar-174563249/">
