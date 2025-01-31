@@ -1,70 +1,99 @@
-<h1 align="center">👨‍💻 Sumit Kumar</h1>
-<h3 align="center">Full Stack Developer | Code Enthusiast | Problem Solver</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sumit+Kumar;Full+Stack+Developer;Code+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumit1911&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sumit1911&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumit1911&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+</div>
 🚀 About Me
-
-🔭 Currently developing Code Assist - an innovative development tool
-🌱 Expanding my expertise in React and modern web frameworks
-💡 Passionate about creating efficient, scalable, and user-friendly applications
-🤝 Open to collaborating on creative and challenging projects
-📚 Continuous learner and technology enthusiast
-
-🛠️ Tech Stack
-<details>
-<summary>Frontend Development</summary>
-
-HTML5, CSS3, JavaScript
-React.js
-Bootstrap, Tailwind CSS
-Babel
-
-</details>
-<details>
-<summary>Backend Development</summary>
-
-Node.js, Express.js
-Java
-Python
-C/C++
-
-</details>
-<details>
-<summary>Database & Tools</summary>
-
-MongoDB
-MySQL
-Oracle
-Git & GitHub
-Postman
-
-</details>
+<div align="center">
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <div align="left" style="margin-bottom: 20px;">
+    <b>🎯 Current Focus:</b> Developing Code Assist<br>
+    <b>📚 Learning:</b> React Framework<br>
+    <b>🤝 Open to:</b> Creative Project Collaborations<br>
+    <b>💡 Passion:</b> Development & Problem Solving<br>
+    <b>🎮 Fun fact:</b> Turning Coffee into Code ☕
+  </div>
+</div>
+<div align="center">
+  <h3>🎯 My Development Arsenal</h3>
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Database</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        React <br>
+        HTML5 / CSS3 <br>
+        JavaScript <br>
+        Bootstrap <br>
+        Tailwind
+      </td>
+      <td align="center">
+        Node.js <br>
+        Express <br>
+        Python <br>
+        Java <br>
+        C++
+      </td>
+      <td align="center">
+        MongoDB <br>
+        MySQL <br>
+        Oracle
+      </td>
+      <td align="center">
+        Git <br>
+        Postman <br>
+        VS Code <br>
+        Babel
+      </td>
+    </tr>
+  </table>
+</div>
+🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,cpp,git,bootstrap,tailwind,html,css,mysql,postman,vscode&perline=8" />
+</div>
 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit1911&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit1911&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1911&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumit1911&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit1911&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit1911&theme=radical&hide_border=true&background=0D1117" width="400"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit1911&theme=react-dark&hide_border=true" width="800"/>
+</div>
+🌟 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit1911&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+</div>
 🎯 Holopin Badges
-Show Image
+<div align="center">
+![image](https://github.com/user-attachments/assets/fd738f79-a459-4dcb-bb7b-5fe937703aa1)
+
+</div>
 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar-174563249/" target="_blank">
+<div align="center">
+  <a href="https://www.linkedin.com/in/sumit-kumar-174563249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sk3700844@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
 
-<p align="center">💼 Open for professional opportunities</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+create+something+amazing!" alt="Typing SVG" />
+</div>
